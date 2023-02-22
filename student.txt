@@ -1,5 +1,3 @@
 class student{
 
-public:
-	Date();
 };
