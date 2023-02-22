@@ -1,3 +1,5 @@
-class student{
+class Student{
 
+public:
+	Student();
 };
